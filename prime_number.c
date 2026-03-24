@@ -2,6 +2,7 @@
 int main()
 {
   int n, i;
+  int a = 10;
 
   print("Enter the num: \n");
   scanf("%d", &n);
